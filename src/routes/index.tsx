@@ -7,7 +7,7 @@ export default component$(() => {
         <div class="grid grid-rows-2 sm:grid-rows-1 sm:grid-cols-2">
             <div class="bg-neutral-500 text-white">uitleg over foto</div>
             <div class="flex justify-center">
-                <img src="https://picsum.photos/250" class="w-full h-full object-contain" />
+                <img src="https://picsum.photos/250" class="w-full h-full object-contain" width={250} height={250} />
             </div>
         </div>
     </div>
