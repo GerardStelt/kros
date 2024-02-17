@@ -12,8 +12,7 @@ export default extendConfig(baseConfig, () => {
     },
     plugins: [
       staticAdapter({
-        origin: "https://gerardstelt.github.io",
-        base: "/kros/",
+        origin: "https://gerardstelt.github.io"
       })
     ],
   };
