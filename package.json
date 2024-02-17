@@ -1,6 +1,7 @@
 {
   "name": "my-qwik-basic-starter",
   "description": "Demo App with Routing built-in (recommended)",
+  "homepage": "https://gerardstelt.github.io/kros",
   "engines": {
     "node": ">=15.0.0"
   },
@@ -10,12 +11,13 @@
   ],
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "qwik build",
     "build.client": "vite build",
     "build.preview": "vite build --ssr src/entry.preview.tsx",
     "build.server": "vite build -c adapters/static/vite.config.ts",
     "build.types": "tsc --incremental --noEmit",
-    "deploy": "echo 'Run \"npm run qwik add\" to install a server adapter'",
     "dev": "vite --mode ssr",
     "dev.debug": "node --inspect-brk ./node_modules/vite/bin/vite.js --mode ssr --force",
     "fmt": "prettier --write .",
@@ -44,6 +46,7 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "dependencies": {
-    "@qwikest/icons": "^0.0.13"
+    "@qwikest/icons": "^0.0.13",
+    "gh-pages": "^6.1.1"
   }
 }
