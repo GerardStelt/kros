@@ -13,7 +13,7 @@ export default extendConfig(baseConfig, () => {
     plugins: [
       staticAdapter({
         // origin: "https://yoursite.qwik.dev",
-        origin: "https://gerardstelt.github.io/kros/"
+        origin: "https://gerardstelt.github.io/"
       }),
     ],
   };
