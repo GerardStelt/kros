@@ -17,7 +17,6 @@ export default component$(() => {
                     <Link prefetch href="/">Home</Link>
                     <Link prefetch href="/prices">Prijzen</Link>
                     <Link prefetch href="/contact">Contact</Link>
-                    <Link prefetch href="/about">Over ons</Link>
                 </nav>
             </div>
         </header>
