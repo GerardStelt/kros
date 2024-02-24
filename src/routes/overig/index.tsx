@@ -42,11 +42,6 @@ export default component$(() => {
                 Door de trillingen te monitoren kunnen we zien of deze binnen de norm blijven.
             </p>
 
-            <a href="/media/trillingsmeter.jpeg" target="_blank" class="max-w-xs">
-                <img src="/media/trillingsmeter.jpeg" />
-            </a>
-
-
             <h3 class="font-bold text-2xl md:text-3xl xl:text-4xl">
                 Kalenderen van heipalen
             </h3>
@@ -66,11 +61,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-    title: "Stalen buispalen | Kros heiwerk service",
+    title: "Algemeen | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Algemeen",
+            content: "Algemene informatie omtrent heien en heipalen",
         },
     ],
 };

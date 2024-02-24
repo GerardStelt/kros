@@ -10,22 +10,31 @@ export default component$(() => {
             </h2>
 
             <p>
-                Houten palen worden gebruikt kleine objecten, niet meer onder huizen of andere grote gebouwen. <br />
+                Houten palen worden gebruikt bij kleine objecten, niet meer onder huizen of andere grote gebouwen. <br />
                 Houten palen heien is de goedkoopste manier van heien, echter veroorzaakt het wel wat meer trillingen. <br />
                 Tevens mogen houten palen niet erg zwaar belast worden. <br />
                 Op de houten paal gaat een betonnen oplanger, dit zorgt er voor dat de houten paal goed in het grondwater staat en zo niet gaat rotten.
             </p>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <a href="/media/kros_houten-paal-oplanger.jpeg" target="_blank" class="max-w-xs">
+                    <img src="/media/kros_houten-paal-oplanger.jpeg" />
+                </a>
+                <a href="/media/kros_houten-paal-oplanger-staand.jpeg" target="_blank" class="max-w-xs">
+                    <img src="/media/kros_houten-paal-oplanger-staand.jpeg" />
+                </a>
+            </div>
 
         </div>
     );
 });
 
 export const head: DocumentHead = {
-    title: "Stalen buispalen | Kros heiwerk service",
+    title: "Houten palen | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Houten palen",
+            content: "Houten heipalen",
         },
     ],
 };

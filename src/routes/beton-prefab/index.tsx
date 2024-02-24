@@ -23,19 +23,23 @@ export default component$(() => {
 
             <p>
                 Op elke prefab heipaal zit een kaartje met daarop de leverancier, productiedatum en het gewicht van de prefab paal.
-                De prefab heipaal moet uitgehard zijn voordat deze de grond ingeslagen wordt.
+                De prefab heipaal <u>moet uitgehard zijn</u> voordat deze de grond ingeslagen wordt.
             </p>
+
+            <a href="/media/kros_beton-prefab-kaartje.jpeg" target="_blank" class="max-w-xs">
+                <img src="/media/kros_beton-prefab-kaartje.jpeg" />
+            </a>
 
         </div>
     );
 });
 
 export const head: DocumentHead = {
-    title: "Stalen buispalen | Kros heiwerk service",
+    title: "Beton-prefab | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "beton-prefab",
+            content: "Beton/prefab heipalen",
         },
     ],
 };

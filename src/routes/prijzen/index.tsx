@@ -15,7 +15,7 @@ export default component$(() => {
                 <li>Advies incl. 5 offertes vanaf €400,- excl. btw</li>
             </ul>
 
-            <div class="font-semibold text-neutral-500 text-sm">Inclusief de eerste 40km, daarna €1,- per gereden kilometer (gerekend vanaf postcode 4214)</div>
+            <div class="font-semibold text-neutral-500 text-sm">Inclusief de eerste 40km, daarna €1,- per gereden kilometer (gerekend vanaf postcode 4214ER)</div>
 
         </div>
     );
@@ -25,8 +25,8 @@ export const head: DocumentHead = {
     title: "Prijzen | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Prijzen",
+            content: "Prijzen voor ons advies omtrent heien",
         },
     ],
 };

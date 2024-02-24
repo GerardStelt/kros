@@ -15,7 +15,7 @@ export default component$(() => {
             </p>
 
             <p>
-                Nadelen van stalen boorpalen zijn dat ze meer tijd in beslag nemen en dat de kosten hoger zijn. <br/>
+                Nadelen van stalen boorpalen zijn dat ze meer tijd in beslag nemen en dat de kosten hoger zijn. <br />
                 Dit komt doordat het ijzer dikker moet zijn dan bij stalen buispalen.
             </p>
 
@@ -23,16 +23,20 @@ export default component$(() => {
                 Na het boren wordt de boorpaal gevuld met beton en gaat er kopwapening in.
             </p>
 
+            <a href="/media/kros_stalen-boorpalen-kopwapening.jpeg" target="_blank" class="max-w-xs">
+                <img src="/media/kros_stalen-boorpalen-kopwapening.jpeg" />
+            </a>
+
         </div>
     );
 });
 
 export const head: DocumentHead = {
-    title: "Stalen buispalen | Kros heiwerk service",
+    title: "Stalen boorpalen | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Stalen boorpalen",
+            content: "Stalen boorpalen voor heien",
         },
     ],
 };

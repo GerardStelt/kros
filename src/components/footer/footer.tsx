@@ -33,27 +33,27 @@ export default component$(() => {
                     <h6 class="font-semibold uppercase">Diensten</h6>
                     <ul class="flex flex-col gap-4">
                         <li>
-                            <a href="#!">
+                            <a href="/krappe-locaties">
                                 Heien op krappe locaties
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="/stalen-buis">
                                 Stalen buispalen
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="/houten-palen">
                                 Houten palen
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="/stalen-boor">
                                 Stalen boorpalen
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="/beton-prefab">
                                 Beton/prefab palen
                             </a>
                         </li>

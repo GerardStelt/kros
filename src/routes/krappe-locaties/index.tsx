@@ -32,11 +32,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-    title: "Stalen buispalen | Kros heiwerk service",
+    title: "Krappe locaties | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Krappe locaties",
+            content: "Heien op krappe locaties",
         },
     ],
 };

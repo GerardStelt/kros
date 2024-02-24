@@ -24,7 +24,7 @@ export default component$(() => {
             <section class="grid md:grid-cols-2 gap-8">
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 md:h-auto w-full object-cover md:w-1/2 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/media/image1.jpeg" />
+                    <img class="h-96 md:h-auto w-full object-cover md:w-1/2 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/media/kros_heistelling-over-flat.jpeg" />
                     <div class="flex flex-col p-6">
                         <p class="mb-4 text-base text-neutral-600">
                             Heistelling wordt met een mobiele torenkraan over een flat gehesen om daar te heien voor een fundatie voor een aanbouw.
@@ -33,7 +33,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 md:h-auto w-full object-cover md:w-1/2 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/media/boren-krappe-locatie.jpeg" />
+                    <img class="h-96 md:h-auto w-full object-cover md:w-1/2 rounded-t-lg md:rounded-none md:rounded-l-lg" src="/media/kros_kleine-heistelling-binnen.jpeg" />
                     <div class="flex flex-col p-6">
                         <p class="mb-4 text-base text-neutral-600">
                             Stalen buispalen heien in huis. Door korte elementen aan elkaar te lassen kom je toch op het gewenste inheiniveau .
@@ -49,17 +49,17 @@ export default component$(() => {
                 </h2>
 
                 <ul class="list-disc ml-5 leading-loose">
-                    <li>Welke hei- of boorpaal is het meest voordelig en welke het meest geschikt voor de heiwerkzaamheden. Dat kan zijn een houten paal, stalen buispaal, beton paal of boorpaal.</li>
-                    <li>Hoeveel ruimte is er nodig voor de heiwerkzaamheden</li>
-                    <li>We geven uitleg over de bouwput en hoe deze dient te zijn zodat de heier snel en eenvoudig kan werken</li>
-                    <li>De hei locatie wordt volledig op foto vastgelegd zodat het heibedrijf weet hoeveel ruimte er beschikbaar is en wat de grootte van de machine kan zijn</li>
+                    <li>Welke hei- of boorpaal het meest voordelig- en welke het meest geschikt is voor de heiwerkzaamheden. Dat kan zijn een houten paal, stalen buispaal, beton paal of boorpaal.</li>
+                    <li>Hoeveel ruimte er nodig is voor de heiwerkzaamheden.</li>
+                    <li>We geven uitleg over de bouwput en hoe deze opgezet dient te zijn zodat de heier snel en eenvoudig kan werken.</li>
+                    <li>De hei locatie wordt volledig op foto vastgelegd zodat het heibedrijf weet hoeveel ruimte er beschikbaar is en wat de grootte van de machine kan zijn.</li>
                     <li>Er worden meerdere offertes bij heibedrijven voor u opgevraagd zodat u zelf kunt kiezen welke het beste bij u past. Uiteraard begeleiden wij u hierbij.</li>
                     <li>Door goed geïnformeerd te zijn kunt u veel geld besparen en komt u niet voor verrassingen te staan.</li>
                 </ul>
 
                 <div class="font-semibold text-sm text-neutral-500">
                     <div>
-                        Voor een vanaf prijs van <b>€200 excl. btw</b> kom ik al bij u langs en nemen we alles samen door.
+                        Voor een vanaf prijs van <b>€200 excl. btw</b> komen we al bij u langs en nemen we alles samen door.
                     </div>
                     <div>
                         U ontvangt een factuur welke voor bedrijven fiscaal aftrekbaar is.
@@ -72,7 +72,7 @@ export default component$(() => {
             <div class="grid md:grid-cols-2 gap-8 auto-rows-fr">
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/image3.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_krappe-locatie.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -94,7 +94,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/image4.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_stalen-buispalen-gestapeld.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -116,7 +116,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/houten-heipalen.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_houten-palen-gestapeld.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -138,7 +138,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/beton-prefab-palen.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_beton-prefab-gestapeld.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -160,7 +160,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/stalen-boorpalen.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_stalen-boorpalen-gestapeld.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -182,7 +182,7 @@ export default component$(() => {
                 </div>
 
                 <div class="flex flex-col md:flex-row rounded-lg bg-white shadow-2xl">
-                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/trillingsmeter.jpeg" />
+                    <img class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-1/3 md:rounded-none md:rounded-l-lg" src="/media/kros_heimachine-klein.jpeg" />
                     <div class="p-6 flex flex-col w-full justify-between">
                         <div>
                             <h3
@@ -210,8 +210,8 @@ export const head: DocumentHead = {
     title: "Home | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Kros heiwerk service",
+            content: "Kros heiwerk service | Voor het beste advies omtrent heien",
         },
     ],
 };

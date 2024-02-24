@@ -13,8 +13,8 @@ export const head: DocumentHead = {
     title: "Contact | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "contact",
+            content: "Contact formulier",
         },
     ],
 };

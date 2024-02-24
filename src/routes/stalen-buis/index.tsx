@@ -22,7 +22,7 @@ export default component$(() => {
             </p>
 
             <p>
-                168mm <br/>
+                168mm <br />
                 219mm <br />
                 273mm <br />
                 324mm
@@ -43,6 +43,18 @@ export default component$(() => {
                 De stalen buispaal wordt rondom afgelast, zo voorkom je dat er grondwater in de stalen buispaal komt.
             </p>
 
+            <div class="grid md:grid-cols-3 gap-8">
+                <a href="/media/kros_stalen-buis-voetplaat.jpeg" target="_blank" class="max-w-xs">
+                    <img src="/media/kros_stalen-buis-voetplaat.jpeg" />
+                </a>
+                <a href="/media/kros_stalen-buis-grind.jpeg" target="_blank" class="max-w-xs">
+                    <img src="/media/kros_stalen-buis-grind.jpeg" />
+                </a>
+                <a href="/media/kros_stalen-buis-las.jpeg" target="_blank" class="max-w-xs">
+                    <img src="/media/kros_stalen-buis-las.jpeg" />
+                </a>
+            </div>
+
         </div>
     );
 });
@@ -51,8 +63,8 @@ export const head: DocumentHead = {
     title: "Stalen buispalen | Kros heiwerk service",
     meta: [
         {
-            name: "description",
-            content: "Qwik site description",
+            name: "Stalen buispalen",
+            content: "Stalen buispalen voor het heien",
         },
     ],
 };
