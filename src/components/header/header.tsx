@@ -6,8 +6,8 @@ import { SiHomebridge } from "@qwikest/icons/simpleicons";
 
 export default component$(() => {
     return (
-        <header>
-            <div class="container mx-auto flex justify-between items-center px-8 py-12">
+        <header class="sticky top-0 bg-white">
+            <div class="container mx-auto flex justify-between items-center px-8 py-4">
                 <a href="/" title="home" class="flex gap-2 items-center font-semibold uppercase">
                     <SiHomebridge class="text-6xl" />
                     <span class="hidden md:block">Kros heiwerk service</span>

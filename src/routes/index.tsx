@@ -86,7 +86,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/krappe-locaties")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
@@ -108,7 +108,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/stalen-buis")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
@@ -130,7 +130,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/houten-palen")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
@@ -152,7 +152,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/beton-prefab")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
@@ -174,7 +174,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/stalen-boor")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
@@ -193,7 +193,7 @@ export default component$(() => {
                         <button
                             onClick$={() => nav("/overig")}
                             type="button"
-                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-xl focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-xl"
+                            class="w-full self-end md:w-2/5 inline-block rounded bg-blue-900 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-lg transition duration-150 ease-in-out focus:bg-blue-600 focus:shadow-xl focus:outline-none focus:ring-0 active:shadow-xl"
                         >
                             Meer informatie
                         </button>
