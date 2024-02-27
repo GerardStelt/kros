@@ -18,6 +18,7 @@ export const onGet: RequestHandler = async ({ cacheControl }) => {
 export default component$(() => {
     return (
         <>
+            <a href="/contact" class="fixed top-0 left-1/2 bg-orange-500 px-4 p-2 rounded-b-xl text-white leading-none font-semibold">offerte</a>
             <Header />
             <main>
                 <Slot />

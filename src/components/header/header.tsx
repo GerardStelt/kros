@@ -6,7 +6,7 @@ import { SiHomebridge } from "@qwikest/icons/simpleicons";
 
 export default component$(() => {
     return (
-        <header class="sticky top-0 bg-white">
+        <header>
             <div class="container mx-auto flex justify-between items-center px-8 py-4">
                 <a href="/" title="home" class="flex gap-2 items-center font-semibold uppercase">
                     <SiHomebridge class="text-6xl" />
