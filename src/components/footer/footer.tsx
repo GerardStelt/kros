@@ -2,6 +2,7 @@ import { component$ } from "@builder.io/qwik";
 import { SiHomebridge } from "@qwikest/icons/simpleicons";
 import { HiPhoneSolid, HiEnvelopeSolid } from "@qwikest/icons/heroicons";
 
+
 export default component$(() => {
 
     return (
@@ -9,15 +10,15 @@ export default component$(() => {
             <div class="container mx-auto bg-neutral-100 text-neutral-600 p-8 text-center md:text-left grid gap-12 grid-cols-1 md:grid-cols-2">
 
                 <section class="flex flex-col gap-6">
-                    <h6 class="font-semibold uppercase flex gap-3 items-center justify-center md:justify-start">
-                        <SiHomebridge class="text-3xl" />
+                    <h6 class="font-semibold uppercase flex gap-2 items-center justify-center md:justify-start">
+                        <span class="text-5xl font-black">KHS</span>
                         Kros heiwerk service
                     </h6>
                     <ul class="flex flex-col gap-4">
                         <li>
                             <a href="#!" class="flex gap-2 items-center hover:underline justify-center md:justify-start">
                                 <HiEnvelopeSolid class="text-xl" />
-                                krosheiwerkservice@gmail.com
+                                info@krosheiwerkservice.nl
                             </a>
                         </li>
                         <li>

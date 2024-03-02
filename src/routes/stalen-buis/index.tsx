@@ -45,13 +45,13 @@ export default component$(() => {
 
             <div class="grid md:grid-cols-3 gap-8">
                 <a href="/media/kros_stalen-buis-voetplaat.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_stalen-buis-voetplaat.jpeg" />
+                    <img src="/media/kros_stalen-buis-voetplaat.jpeg" class="object-cover h-full w-full" />
                 </a>
                 <a href="/media/kros_stalen-buis-grind.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_stalen-buis-grind.jpeg" />
+                    <img src="/media/kros_stalen-buis-grind.jpeg" class="object-cover h-full w-full" />
                 </a>
                 <a href="/media/kros_stalen-buis-las.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_stalen-buis-las.jpeg" />
+                    <img src="/media/kros_stalen-buis-las.jpeg" class="object-cover h-full w-full" />
                 </a>
             </div>
 

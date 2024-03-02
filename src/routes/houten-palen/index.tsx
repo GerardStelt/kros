@@ -1,5 +1,5 @@
 import { component$ } from "@builder.io/qwik";
-import type { DocumentHead } from "@builder.io/qwik-city";
+import { type DocumentHead, Link } from "@builder.io/qwik-city";
 
 export default component$(() => {
     return (
@@ -16,12 +16,12 @@ export default component$(() => {
                 Op de houten paal gaat een betonnen oplanger, dit zorgt er voor dat de houten paal goed in het grondwater staat en zo niet gaat rotten.
             </p>
 
-            <div class="grid md:grid-cols-2 gap-8">
+            <div class="grid md:grid-cols-3 gap-8">
                 <a href="/media/kros_houten-paal-oplanger.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_houten-paal-oplanger.jpeg" />
+                    <img src="/media/kros_houten-paal-oplanger.jpeg" class="object-cover h-full w-full" />
                 </a>
                 <a href="/media/kros_houten-paal-oplanger-staand.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_houten-paal-oplanger-staand.jpeg" />
+                    <img src="/media/kros_houten-paal-oplanger-staand.jpeg" class="object-cover h-full w-full" />
                 </a>
             </div>
 
