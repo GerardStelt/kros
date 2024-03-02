@@ -1,6 +1,5 @@
 import { component$ } from "@builder.io/qwik";
 import { Link } from "@builder.io/qwik-city";
-import { SiHomebridge } from "@qwikest/icons/simpleicons";
 
 
 export default component$(() => {

@@ -1,5 +1,4 @@
 import { component$ } from "@builder.io/qwik";
-import { SiHomebridge } from "@qwikest/icons/simpleicons";
 import { HiPhoneSolid, HiEnvelopeSolid } from "@qwikest/icons/heroicons";
 
 
