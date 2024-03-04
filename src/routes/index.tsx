@@ -12,7 +12,6 @@ export default component$(() => {
             {/* intro */}
             <section>
                 <h2 class="mb-2 text-3xl font-bold leading-tight md:text-4xl xl:text-5xl">
-                    <span class="md:hidden uppercase tracking-tighter font-light mb-4 block">Kros heiwerk service<br/></span>
                     Uw heiwerk specialist
                 </h2>
                 <p class="text-lg">
