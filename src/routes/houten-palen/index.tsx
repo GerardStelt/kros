@@ -18,10 +18,10 @@ export default component$(() => {
 
             <div class="grid md:grid-cols-3 gap-8">
                 <a href="/media/kros_houten-paal-oplanger.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_houten-paal-oplanger.jpeg" class="object-cover h-full w-full" />
+                    <img src="/media/kros_houten-paal-oplanger.jpeg" class="h-[500px]" />
                 </a>
                 <a href="/media/kros_houten-paal-oplanger-staand.jpeg" target="_blank" class="max-w-xs">
-                    <img src="/media/kros_houten-paal-oplanger-staand.jpeg" class="object-cover h-full w-full" />
+                    <img src="/media/kros_houten-paal-oplanger-staand.jpeg" class="h-[500px]" />
                 </a>
             </div>
 

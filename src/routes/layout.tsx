@@ -18,8 +18,9 @@ export const onGet: RequestHandler = async ({ cacheControl }) => {
 export default component$(() => {
     return (
         <>
-            {/* <a href="/contact" class="fixed top-0 inset-x-0 max-w-max mx-auto bg-orange-500 px-4 p-2 rounded-b-xl text-white leading-none font-semibold">offerte</a> */}
-            <a href="/contact" class="fixed left-full -translate-x-[67px] inset-y-0 max-h-max my-auto bg-orange-500 px-4 p-2 rounded-b-xl text-white leading-none font-semibold rotate-90 uppercase">offerte</a>
+            <a href="/contact" class="bg-orange-500 fixed right-0 top-1/2 rounded-l-xl">
+                <div class="uppercase text-white font-semibold rotate-90 py-10 -mx-5">offerte</div>
+            </a>
             <Header />
             <main>
                 <Slot />
