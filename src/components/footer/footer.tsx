@@ -17,7 +17,7 @@ export default component$(() => {
                         <li>
                             <a href="#!" class="flex gap-2 items-center hover:underline justify-center md:justify-start">
                                 <HiEnvelopeSolid class="text-xl" />
-                                info@krosheiwerkservice.nl
+                                info@kroshandelendiensten.nl
                             </a>
                         </li>
                         <li>

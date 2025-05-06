@@ -5,7 +5,8 @@ export default component$(() => {
     return (
         <div class="container m-auto px-8 py-12">
             <div class="bg-neutral-700 p-8">
-                <form class="grid md:grid-cols-2 gap-8" action="https://formsubmit.co/ec6577089bb1349d5f8f05e9ea71147b" method="post">
+                {/* <form class="grid md:grid-cols-2 gap-8" action="https://formsubmit.co/ec6577089bb1349d5f8f05e9ea71147b" method="post"> */}
+                <form class="grid md:grid-cols-2 gap-8" action="https://formsubmit.co/marco-kros@hotmail.com" method="POST" >
                     <input type="text" name="naam" id="name" placeholder="Naam" required class="p-2" />
                     <input type="text" name="bedrijfsnaam" id="company" placeholder="Bedrijfsnaam (indien van toepassing)" class="p-2" />
                     <input type="text" name="telefoonnummer" id="phone" placeholder="Telefoonnummer" required class="p-2" />
