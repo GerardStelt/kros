@@ -79,9 +79,9 @@ export default component$(() => {
                                 class="mb-2 text-xl font-medium text-neutral-800">
                                 Heien op krappe locaties
                             </h3>
-                            <p class="mb-4 text-base text-neutral-600">
+                            {/* <p class="mb-4 text-base text-neutral-600">
                                 Korte introductie
-                            </p>
+                            </p> */}
                         </div>
                         <button
                             onClick$={() => nav("/krappe-locaties")}
@@ -101,9 +101,9 @@ export default component$(() => {
                                 class="mb-2 text-xl font-medium text-neutral-800">
                                 Stalen buispalen
                             </h3>
-                            <p class="mb-4 text-base text-neutral-600">
+                            {/* <p class="mb-4 text-base text-neutral-600">
                                 Korte introductie
-                            </p>
+                            </p> */}
                         </div>
                         <button
                             onClick$={() => nav("/stalen-buis")}
@@ -123,9 +123,9 @@ export default component$(() => {
                                 class="mb-2 text-xl font-medium text-neutral-800">
                                 Houten heipalen
                             </h3>
-                            <p class="mb-4 text-base text-neutral-600">
+                            {/* <p class="mb-4 text-base text-neutral-600">
                                 Korte introductie
-                            </p>
+                            </p> */}
                         </div>
                         <button
                             onClick$={() => nav("/houten-palen")}
@@ -145,9 +145,9 @@ export default component$(() => {
                                 class="mb-2 text-xl font-medium text-neutral-800">
                                 Beton / prefab heipalen
                             </h3>
-                            <p class="mb-4 text-base text-neutral-600">
+                            {/* <p class="mb-4 text-base text-neutral-600">
                                 Korte introductie
-                            </p>
+                            </p> */}
                         </div>
                         <button
                             onClick$={() => nav("/beton-prefab")}
@@ -167,9 +167,9 @@ export default component$(() => {
                                 class="mb-2 text-xl font-medium text-neutral-800">
                                 Stalen boorpalen
                             </h3>
-                            <p class="mb-4 text-base text-neutral-600">
+                            {/* <p class="mb-4 text-base text-neutral-600">
                                 Korte introductie
-                            </p>
+                            </p> */}
                         </div>
                         <button
                             onClick$={() => nav("/stalen-boor")}
