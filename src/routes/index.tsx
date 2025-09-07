@@ -57,15 +57,6 @@ export default component$(() => {
                     <li>Door goed geïnformeerd te zijn kunt u veel geld besparen en komt u niet voor verrassingen te staan.</li>
                 </ul>
 
-                <div class="font-semibold text-sm text-neutral-500">
-                    <div>
-                        Voor een vanaf prijs van <b>€200 excl. btw</b> komen we al bij u langs en nemen we alles samen door.
-                    </div>
-                    <div>
-                        U ontvangt een factuur welke voor bedrijven fiscaal aftrekbaar is.
-                    </div>
-                </div>
-
             </div>
 
             {/* services */}

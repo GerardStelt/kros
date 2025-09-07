@@ -12,7 +12,6 @@ export default component$(() => {
                 </a>
                 <nav class="flex gap-8 whitespace-nowrap">
                     <Link prefetch href="/">Home</Link>
-                    <Link prefetch href="/prijzen">Prijzen</Link>
                     <Link prefetch href="/contact">Contact</Link>
                 </nav>
             </div>
